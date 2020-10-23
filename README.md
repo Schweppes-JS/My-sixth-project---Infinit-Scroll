@@ -1,7 +1,3 @@
-## Demo 
-
-![print](demo/demo.png)
-
 ## Demo
 
-![Farmers Market Finder - Animated gif demo](demo/demo.gif)
+![Farmers Market Finder - Animated gif demo](Demo/demo.gif)
